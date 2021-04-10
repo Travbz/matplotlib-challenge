@@ -27,6 +27,12 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.transpose.html
 Formatting Boxplots
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
 
+Return position at at first occurance of value
+https://www.w3schools.com/python/ref_list_index.asp
+
+Creates list from an enumerable, returns query results
+https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.tolist?view=net-5.0
+
 ## Author, Travis Bridle
 
 ### Observations
