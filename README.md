@@ -27,5 +27,16 @@ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.transpose.html
 Formatting Boxplots
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html
 
+## Author, Travis Bridle
 
+### Observations
 
+Ramicane has the lowes mean and median tumor size suggesting it may be the most effective treatment on this sample of mice.
+
+Ramicane and Capomulin appear to be the most effective treatments in terms of reducing tumor volume in mice.
+
+Capomulin had a lesser extent of deviation among that group of mice as a whole possibly suggesting a more predictable anticipated outcome after treatment.
+
+An analysis baseon gender could reveal if treatment varies by sex
+
+The weight of the mose has a strong positive correlation to the volume of the tumor as seen in scatterplots.
